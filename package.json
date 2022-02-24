@@ -1,0 +1,25 @@
+{
+  "name": "desafio-creando-modificando-objetos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "assets/script.js",
+  "scripts": {
+    "build": "babel assets -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Desafio-Latam/creando-modificando-objetos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Desafio-Latam/creando-modificando-objetos/issues"
+  },
+  "homepage": "https://github.com/Desafio-Latam/creando-modificando-objetos#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.5",
+    "@babel/preset-env": "^7.16.11"
+  }
+}
